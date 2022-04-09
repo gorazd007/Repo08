@@ -6,4 +6,4 @@ function reusableFunction(){
 reusableFunction();
 
 
-module.exports = reusableFunction
+module.exports = reusableFunction;

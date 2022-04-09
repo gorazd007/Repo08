@@ -10,4 +10,4 @@ if (typeof myVariable != "undefined") {
 } else {
     console.log('outside localScope UNDEFINED!!!')
 }
-module.exports = localScope
+module.exports = localScope;

@@ -4,5 +4,6 @@ function functionPrintInfo(name, age){
     
 }
 functionPrintInfo("John", "23");
+functionPrintInfo("Michael", 43);
 
-module.exports = functionPrintInfo
+module.exports = functionPrintInfo;
